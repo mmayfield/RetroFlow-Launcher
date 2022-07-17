@@ -1,4 +1,5 @@
-﻿
+I hope to create a toggle option for whether you want to launch playstation games with adrenaline or retroarch. I prefer to use retroarch for retroachievements and I found many games run in retroarch that will not in adrenaline due to the lack of the popsloader firmware selections. 
+In addition I would like to add a category for the built in Vita apps so that everything can be access from Retroflow, autobooting it and not needing to touch the bubble gui. I'd also like to add the ability to split Homebrew between apps and games and just add custom categories in general. I'm thinking I can pull from https://github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom, the custom category but make it so you can drop any customname.dat in the folder and have it added automatically, though requiring you to use overrides to put things in it. I haven't looked at the code thouroughly yet so this is just initial thoughts. Original readme for RetroFlow follows:
 
 
 
